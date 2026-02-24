@@ -1,4 +1,4 @@
-### Hey, I'm <YOUR NAME>✋🏾
+### Hey, I'm Jeród✋🏾
 **Aspiring Cloud Engineer** focused on AWS + Terraform.
 I build small, real projects every week and document my proof publicly.
 - 🔭 Current: S3 + IAM “Public Access Problem” lab
